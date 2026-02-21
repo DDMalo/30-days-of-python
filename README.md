@@ -28,7 +28,7 @@ Cada carpeta contiene los ejercicios, notas y soluciones correspondientes al dí
 | Día | Tema | Estado |
 | :--- | :--- | :---: |
 | 01 | Introducción | ✅ |
-| 02 | Variables y Tipos de Datos | 📅 |
+| 02 | Variables y Tipos de Datos | ✅ |
 | 03 | Operadores | ⏳ |
 | 04 | Strings | ⏳ |
 | ... | ... | ... |
