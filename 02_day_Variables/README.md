@@ -1,26 +1,20 @@
 # Día 2: Variables y Funciones Integradas 📦
 
-El segundo día se centró en cómo almacenar información en la memoria del ordenador utilizando variables y cómo interactuar con el usuario.
+En esta sesión he explorado cómo Python gestiona la memoria a través de las variables y cómo interactuar con el sistema mediante funciones "built-in".
 
-### Conceptos Aprendidos:
-- **Variables**: Declaración, asignación y convenciones (Snake Case).
-- **Funciones integradas (Built-in functions)**:
-  - `len()`: Para contar elementos o caracteres.
-  - `type()`: Para inspeccionar tipos de datos.
-  - `str()`, `int()`, `float()`: Para la conversión de tipos (Casting).
-  - `input()`: Para recibir datos del usuario a través de la consola.
-- **Aritmética avanzada**: División de piso (`//`), exponentes (`**`) y módulo (`%`).
-- **Lógica de programación**: Cálculo de áreas y perímetros basados en entradas variables.
+### 🧠 Conceptos Aprendidos
+- **Gestión de Variables:** Declaración única y múltiple en una línea.
+- **Funciones Built-in:**
+  - `len()`: Medición de estructuras de datos.
+  - `input()`: Captura de flujos de entrada del usuario.
+  - `str()`, `int()`, `float()`: Conversión de tipos (*Casting*).
+- **Aritmética de Variables:** Operaciones aplicadas a identificadores de memoria.
 
-### Ejercicios Destacados:
-- **Nivel 1**: Declaración masiva de variables personales (nombre, edad, estado civil).
-- **Nivel 2**: 
-  - Comparación de longitudes de strings.
-  - Creación de una calculadora geométrica para el área de un círculo.
-  - Captura dinámica de datos de usuario mediante `input()`.
+### 💻 Ejercicios Realizados
+- [x] Declaración masiva de variables de perfil de usuario.
+- [x] Comparación de longitudes de cadenas mediante `len()`.
+- [x] **Calculadora Geométrica:** Script para hallar área y circunferencia de un círculo.
+- [x] Implementación de entradas dinámicas para interacción con el usuario.
 
-### Reflexión:
-Lo más interesante fue aprender que `input()` siempre devuelve un texto (`str`), por lo que para hacer cálculos matemáticos es obligatorio convertirlo primero a `int` o `float`.
-
----
-*Status: Completado ✅*
+### 🛠️ Aplicación en Ingeniería
+El *Casting* (conversión de tipos) es vital al recibir datos de sensores o APIs, que suelen llegar como Strings. Como ingenieros, debemos asegurar la integridad del tipo de dato antes de procesarlo en modelos matemáticos.

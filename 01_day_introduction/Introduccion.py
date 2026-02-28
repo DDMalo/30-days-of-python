@@ -1,5 +1,5 @@
-# Introducción
-# Día 1
+# Dia 1 - Introducción
+
 
 print(2 + 3)   # suma(+)
 print(3 - 1)   # resta(-)
