@@ -30,3 +30,4 @@ edad = int("David")
 
 # 10. ZeroDivisionError
 division = 10 / 0 
+

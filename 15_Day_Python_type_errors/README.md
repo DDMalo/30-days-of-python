@@ -21,4 +21,4 @@
 
 ### 🛠️ Aplicación en IA
 Saber leer errores es el 90% del tiempo de un Ingeniero de IA.
-Cuando construyes redes neuronales, el error más común es el de "incompatibilidad de dimensiones" (Shape mismatch), que en el fondo es un `ValueError` o un `RuntimeError`. Si sabes interpretar los errores base de Python, no entrarás en pánico cuando TensorFlow o PyTorch te devuelvan un error de 50 líneas. 
+Cuando construyes redes neuronales, el error más común es el de "incompatibilidad de dimensiones" (Shape mismatch), que en el fondo es un `ValueError` o un `RuntimeError`. Si sabes interpretar los errores base de Python, no entrarás en pánico cuando TensorFlow o PyTorch te devuelvan un error de 50 líneas.
