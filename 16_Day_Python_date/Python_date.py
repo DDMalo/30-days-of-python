@@ -28,4 +28,4 @@ print(f3)
 
 # 5. Calcula la diferencia de tiempo entre el 1 de Enero de 1970 y ahora.
 fecha1970 = datetime(year=1970, month=1, day=1)
-print(f1 - fecha1970)
+print(f1 - fecha1970) 

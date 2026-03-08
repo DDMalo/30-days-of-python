@@ -21,4 +21,4 @@ Hoy he aprendido a dominar el tiempo en Python gracias al módulo integrado `dat
 ### 🛠️ Aplicación en IA
 El manejo del tiempo es el pilar de un campo entero de la Inteligencia Artificial: **Las Series Temporales (Time Series Forecasting)**.
 1.  **Predicciones:** Si quieres que una IA prediga el valor en bolsa de una empresa, el clima del mes que viene o la demanda de un producto, los datos de entrada son siempre objetos `datetime`.
-2.  **Logs y Monitorización:** Cuando dejas un modelo entrenando durante horas o días, usas `datetime` para registrar exactamente cuánto tarda cada época (*epoch*) de entrenamiento.
+2.  **Logs y Monitorización:** Cuando dejas un modelo entrenando durante horas o días, usas `datetime` para registrar exactamente cuánto tarda cada época (*epoch*) de entrenamiento. 

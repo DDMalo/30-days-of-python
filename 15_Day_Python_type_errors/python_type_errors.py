@@ -29,4 +29,4 @@ from math import calcular_salario
 edad = int("David")
 
 # 10. ZeroDivisionError
-division = 10 / 0
+division = 10 / 0 
